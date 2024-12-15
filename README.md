@@ -1,6 +1,7 @@
 # Spam-Filter App
 
-
+This project is a simple web application that uses regular expressions to detect spam messages. Users can input a message in the interface, and the app will analyze it against predefined spam patterns. 
+![image](https://github.com/user-attachments/assets/071f91c8-5736-477e-8d0c-c571187f1a63)
 
 ---
 
