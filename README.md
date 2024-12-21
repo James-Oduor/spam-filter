@@ -4,7 +4,8 @@
 This project is a simple web application that uses regular expressions to detect spam messages. Users can input a message in the interface, and the app will analyze it against predefined spam patterns. 
 
 
-![image](https://github.com/user-attachments/assets/071f91c8-5736-477e-8d0c-c571187f1a63)
+![image](https://github.com/user-attachments/assets/7782a562-baa1-4ba7-b905-425e3e8f4ec6)
+
 
 ---
 
